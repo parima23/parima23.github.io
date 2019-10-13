@@ -6,4 +6,4 @@
 
 * [Github](https://github.com/parima23/)
 
-![GitHub Logo](https://github.com/parima23?tab=repositories)
+* ![GitHub Logo](https://github.com/parima23?tab=repositories)
